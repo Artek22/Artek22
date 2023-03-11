@@ -1,4 +1,4 @@
-<h2 align="center">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32">, Меня зовут Андрей. Backend-разработчик из России 🇷🇺</h2>
+<h2 align="center">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32">, меня зовут Андрей. Я backend-разработчик из России 🇷🇺</h2>
 <h3 align="center"><img src="https://www.stevenandrewmartin.com/wp-content/uploads/2017/03/graduation-day-steven-a-martin.jpg" height="32">Выпускник Яндекс.Практикума</h3>
 Стек технологий: 
 
