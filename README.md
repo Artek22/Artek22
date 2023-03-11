@@ -1,7 +1,9 @@
 <h2 align="left"><font color="">def</font> hello(<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32">):<br> 
-&emsp; name = 'Андрей'<br>
-&emsp; vocation = 'backend-разработчик'<br>
-&emsp; country = '🇷🇺'
+&emsp;&emsp; name = 'Андрей'<br>
+&emsp;&emsp; vocation = 'backend-разработчик'<br>
+&emsp;&emsp; country = '🇷🇺'<br>
+&emsp;&emsp; while not vocation:<br>
+&emsp;&emsp;&emsp;&emsp; IT.find('работа') 
 </h2>
 
 <h3 align="center"><img src="https://www.stevenandrewmartin.com/wp-content/uploads/2017/03/graduation-day-steven-a-martin.jpg" height="32">Выпускник Яндекс.Практикума</h3>
