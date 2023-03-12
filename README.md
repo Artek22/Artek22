@@ -3,7 +3,7 @@
 &emsp;&emsp; vocation = 'backend-разработчик'<br>
 &emsp;&emsp; country = '🇷🇺'<br>
 &emsp;&emsp; while not vocation in IT:<br>
-&emsp;&emsp;&emsp;&emsp; return 'В поиске' 
+&emsp;&emsp;&emsp;&emsp; print('В поиске')
 </h2>
 
 <h3 align="center"><img src="https://www.stevenandrewmartin.com/wp-content/uploads/2017/03/graduation-day-steven-a-martin.jpg" height="32">Выпускник Яндекс.Практикума</h3>
