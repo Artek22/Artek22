@@ -6,7 +6,7 @@
 &emsp;&emsp; while not employment:<br>
 &emsp;&emsp;&emsp;&emsp; print('В поиске')<br>
 &emsp;<br>
-find_a_job()
+find_a_job()<br>
 </h2>
 
 <h3 align="center"><img src="https://www.stevenandrewmartin.com/wp-content/uploads/2017/03/graduation-day-steven-a-martin.jpg" height="32">Выпускник Яндекс.Практикума</h3>
