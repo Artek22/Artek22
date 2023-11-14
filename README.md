@@ -1,7 +1,8 @@
-<h2 align="left">def</font> find_a_job(<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32">):<br> 
+<h2 align="left">def</font> find_a_job(<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="16">):<br> 
 &emsp;&emsp; name = 'Андрей'<br>
 &emsp;&emsp; specialty = 'backend-разработчик'<br>
 &emsp;&emsp; country = '🇷🇺'<br>
+&emsp;&emsp; employment = None <br>
 &emsp;&emsp; while not employment:<br>
 &emsp;&emsp;&emsp;&emsp; print('В поиске')
 </h2>
