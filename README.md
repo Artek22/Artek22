@@ -2,7 +2,7 @@
 &emsp;&emsp; name = 'Андрей'<br>
 &emsp;&emsp; vocation = 'backend-разработчик'<br>
 &emsp;&emsp; country = '🇷🇺'<br>
-&emsp;&emsp; while not vocation in IT:<br>
+&emsp;&emsp; while not employment:<br>
 &emsp;&emsp;&emsp;&emsp; print('В поиске')
 </h2>
 
