@@ -4,7 +4,7 @@
 &emsp;&emsp; country = '🇷🇺'<br>
 &emsp;&emsp; employment = None <br>
 &emsp;&emsp; while not employment:<br>
-&emsp;&emsp;&emsp;&emsp; print('В поиске')<br>
+&emsp;&emsp;&emsp;&emsp; print('В поиске')<br><br>
 find_a_job()
 </h2>
 
