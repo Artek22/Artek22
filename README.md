@@ -17,8 +17,8 @@ find_a_job()
   <a href="https://www.codewars.com/users/Artek22"><img src="https://img.shields.io/badge/Codewars-BA0000?style=for-the-badge&logo=codewars&logoColor=white">
 </p>
     
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Artek22&theme=solarized_dark)
