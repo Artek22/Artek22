@@ -15,7 +15,6 @@ find_a_job()
 <p align="center">
   <a href="https://leetcode.com/Artek22/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   <a href="https://www.codewars.com/users/Artek22"><img src="https://img.shields.io/badge/Codewars-BA0000?style=for-the-badge&logo=codewars&logoColor=white">
-
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 </p>
 
